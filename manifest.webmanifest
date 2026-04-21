@@ -1,0 +1,26 @@
+{
+  "name": "GOGEN-TAYLOR — Recambios Deutz",
+  "short_name": "GOGEN-TAYLOR",
+  "description": "Catálogo de recambios para motores Deutz. OEM e industriales.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0A0A0A",
+  "orientation": "portrait-primary",
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["business", "shopping"]
+}

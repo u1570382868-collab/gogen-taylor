@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /buscar/
+
+Sitemap: https://gogen-taylor.com/sitemap.xml
